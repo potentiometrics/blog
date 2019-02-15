@@ -19,7 +19,7 @@ module.exports = {
   ],
   author: {
     name: "Potentiometrics group",
-    photo: "/photo.jpg",
+    photo: "/AiUniverse.jpg",
     bio:
       "Our mission is to understand how insights in deep learning relate to insights from human psychology and vision"
   }
