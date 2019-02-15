@@ -1,6 +1,6 @@
 ---
-title: "A Brief History of Typography"
-date: "2016-02-02T22:40:32.169Z"
+title: "Neural Nets are rad"
+date: "2019-02-20"
 template: "post"
 draft: false
 slug: "/posts/a-brief-history-of-typography/"
@@ -10,7 +10,7 @@ tags:
   - "Monotype"
   - "History of typography"
   - "Helvetica"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+description: "On the evolution of neural nets, blah blah"
 ---
 
 Hello there. This is the first test of this cool framework called Gatsby.js

@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  url: "",
+  url: "something.com",
   title: "Blog for Potentiometrics",
   subtitle: "Some thoughts from some Harvard Vision Lab members",
   disqusShortname: "potentiometrisc",
